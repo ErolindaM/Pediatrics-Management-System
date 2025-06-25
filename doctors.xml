@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="doctors.xsl"?>
+
+<doctors>
+    <doctor>
+        <name>Dr. Filan Fisteku</name>
+        <specialty>Pediatrics</specialty>
+        <experience>12</experience>
+        <email>filanfisteku@gmail.com</email>
+        <phone>+383 44 111 111</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+    <doctor>
+        <name>Dr. Artan Gashi</name>
+        <specialty>Neonatology</specialty>
+        <experience>9</experience>
+        <email>artangashi@gmail.com</email>
+        <phone>+383 45 222 222</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+    <doctor>
+        <name>Dr. Drita Krasniqi</name>
+        <specialty>Pediatric Cardiology</specialty>
+        <experience>15</experience>
+        <email>dritakrasniqi@gmail.com</email>
+        <phone>+383 49 333 333</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+    <doctor>
+        <name>Dr. Arta Kryeziu</name>
+        <specialty>Pediatric Neurology</specialty>
+        <experience>10</experience>
+        <email>arta@gmail.com</email>
+        <phone>+383 44 444 444</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+    <doctor>
+        <name>Dr. Fisnik Berisha</name>
+        <specialty>Pediatrics</specialty>
+        <experience>12</experience>
+        <email>fisnikberisha@gmail.com</email>
+        <phone>+383 46 555 555</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+    <doctor>
+        <name>Dr. Hana Morina</name>
+        <specialty>Pediatric Endocrinology</specialty>
+        <experience>8</experience>
+        <email>hanamorina@gmail.com</email>
+        <phone>+383 44 123 456</phone>
+        <workhours>09:00 - 17:00</workhours>
+        <location>Prizren</location>
+    </doctor>
+</doctors>

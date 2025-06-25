@@ -1,0 +1,124 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:Verdana;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+}
+.container {
+  position: relative;
+  max-width: 1000px;
+  width: 100%;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  background-color: #9bc9e4;
+}
+.container header {
+  font-size: 22px;
+  color: #4900e6;
+  font-weight: 500;
+  text-align: center;
+}
+.container .form {
+  margin-top: 30px;
+}
+.form .input-group {
+  width: 100%;
+  margin-top: 20px;
+}
+.input-group label {
+  color: #000000;
+  font-size: 16px;
+}
+.input-group select#role {
+  height: 50px;
+  width: 100%;
+  font-size: 16px;
+  color: #707070;
+  margin-top: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 10px 15px;
+  background-color: #ffffff;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+.input-group select#role:focus,
+.input-group select#role:valid {
+  border: 3px solid;
+  border-color: rgb(88, 56, 250);
+}
+
+.form .input-group input {
+  position: relative;
+  height: 40px;
+  width: 100%;
+  outline: none;
+  font-size: 14px;
+  color: #707070;
+  margin-top: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 0 15px;
+}
+.input-group input:focus,
+.input-group input:valid{
+  border: 3px solid;
+  border-color:rgb(88, 56, 250);
+}
+.form button {
+  height: 40px;
+  width: 100%;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background:  rgb(73, 46, 211);
+}
+.form button:hover {
+  background: rgb(55, 28, 187);
+}
+
+.login-register-text{
+    color: #000000;
+    font-weight: 700;
+    margin-top: 15px;
+    font-size:14px;
+}
+.login-register-text a{
+    text-decoration: none;
+    color: rgb(88, 56, 250);
+}
+.login-register-text a:hover{
+    text-decoration: underline;
+    color: rgb(55, 5, 192);
+}
+.guest-explore{
+  margin-left: 765px;
+}
+.guest-button {
+    padding: 8px 15px;
+    background-color: #4d4db8;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+.guest-button:hover {
+    background-color: #3b3b99;
+}
