@@ -3,6 +3,8 @@ This is a Pediatrics Management System developed using HTML, CSS, JavaScript, PH
 
 You can view it live here: http://erolinda-mazreku.ct.ws/php&mysqldatabase-project/
 
+Note: To have access as an administrator or doctor, please contact me at eroliindamazreku@gmail.com!
+
 ## Main Features:
 Three User Roles:
 
