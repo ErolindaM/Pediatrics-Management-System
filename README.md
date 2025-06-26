@@ -1,4 +1,5 @@
 # Pediatrics-Management-System
+
 This is a Pediatrics Management System developed using HTML, CSS, JavaScript, PHP, and MySQL. The system is designed to facilitate the management of pediatric clinic operations by providing role-based access and dynamic features for admins, doctors, and users.
 
 You can view it live here: http://erolinda-mazreku.ct.ws/php&mysqldatabase-project/
