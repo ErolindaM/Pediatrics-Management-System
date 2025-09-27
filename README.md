@@ -4,7 +4,7 @@ This is a Pediatrics Management System developed using HTML, CSS, JavaScript, PH
 
 You can view it live here: http://erolinda-mazreku.ct.ws/php&mysqldatabase-project/
 
-Note: To have access as an administrator or doctor, please contact me at eroliindamazreku@gmail.com!
+Note: Alternatively, you can clone this repository, where you will find the `projectdb.sql` file that includes the database setup.  
 
 ## Main Features:
 Three User Roles:
